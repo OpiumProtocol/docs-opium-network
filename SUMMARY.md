@@ -12,10 +12,9 @@
 * [Connect to Opium](introduction-to-opium/connect-to-opium.md)
 * [Opium token standard](introduction-to-opium/opium-token-standard-erc-721o.md)
 
-## Audit and security
+## Security and Audits
 
-* [Audit](audit-and-security/audit.md)
-* [Security](audit-and-security/security.md)
+* [Audits](security-and-audits/audit.md)
 
 ---
 
