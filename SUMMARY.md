@@ -12,13 +12,20 @@
 * [Connect to Opium](introduction-to-opium/connect-to-opium.md)
 * [Opium token standard](introduction-to-opium/opium-token-standard-erc-721o.md)
 
+***
+
+* [Restrictions](restrictions.md)
+
 ## Security and Audits
 
+* [Disclaimer](security-and-audits/disclaimer.md)
 * [Audits](security-and-audits/audit.md)
+* [Bounty program](security-and-audits/bounty-program.md)
 
----
+***
 
 * [Governance](governance.md)
+* [$Opium governance token](usdopium-governance-token.md)
 
 ## For users
 
@@ -42,10 +49,9 @@
 * [Oracle and derivative recipes](complex-description/opium-oracles.md)
 * [Oracle and derivative registers](complex-description/oracle-and-derivative-registrars.md)
 * [Opium margin](complex-description/opium-margin.md)
-* [Opium swaps \(TMtm\)](complex-description/opium-swaps-tmtm.md)
+* [Opium swaps (TMtm)](complex-description/opium-swaps-tmtm.md)
 * [Opium order books](complex-description/opium-orderbooks.md)
 
 ## FAQ
 
 * [FAQ](faq/faq-questions.md)
-
