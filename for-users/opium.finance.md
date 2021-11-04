@@ -11,7 +11,6 @@ description: >-
 
 ![](../.gitbook/assets/screenshot-2021-07-26-at-11.52.33.png)
 
-**Visit** [**opium.finance**](https://opium.finance) **to find out more about the available products.** 
+**Visit **[**opium.finance**](https://opium.finance)** to find out more about the available products. **
 
 _Opium.Finance is not available in the United States or other prohibited jurisdictions._
-

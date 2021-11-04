@@ -5,16 +5,11 @@
 ## Introduction to Opium
 
 * [What is Opium](introduction-to-opium/what-is-opium.md)
-* [Opium Network](introduction-to-opium/overview.md)
-* [High level overview of Opium](introduction-to-opium/overview-of-opium-network.md)
-* [Core explanation](introduction-to-opium/core-explanation.md)
-* [Opium layers](introduction-to-opium/opium-layers-new.md)
-* [Connect to Opium](introduction-to-opium/connect-to-opium.md)
-* [Opium token standard](introduction-to-opium/opium-token-standard-erc-721o.md)
+* [FAQs](introduction-to-opium/faqs.md)
 
-***
+## Restrictions
 
-* [Restrictions](restrictions.md)
+* [Restrictions](restrictions/restrictions.md)
 
 ## Security and Audits
 
@@ -22,10 +17,9 @@
 * [Audits](security-and-audits/audit.md)
 * [Bounty program](security-and-audits/bounty-program.md)
 
-***
+## Governance
 
-* [Governance](governance.md)
-* [$Opium governance token](usdopium-governance-token.md)
+* [$Opium governance token](governance/usdopium-governance-token.md)
 
 ## For users
 
@@ -51,7 +45,3 @@
 * [Opium margin](complex-description/opium-margin.md)
 * [Opium swaps (TMtm)](complex-description/opium-swaps-tmtm.md)
 * [Opium order books](complex-description/opium-orderbooks.md)
-
-## FAQ
-
-* [FAQ](faq/faq-questions.md)

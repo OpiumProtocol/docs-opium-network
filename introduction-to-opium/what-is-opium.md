@@ -1,10 +1,15 @@
 # What is Opium
 
-The Opium protocol is a universal protocol to create, settle and trade virtually all derivatives and financial instruments in a professional and trustless way. It allows anyone to build custom exchange-traded products on top of the EVM-Compatible blockchains. Once created, they can be traded freely via a network of relayers and will be priced according to supply and demand.  
-  
-The Opium Network is a learning ecosystem that can work with the custom logic of both derivatives and oracles. All created positions are represented by ERC-721o tokens that are specially designed for trading financial instruments and can be combined into portfolios and natively traded in combined orders. At the same time, these tokens are backward compatible with the ERC-721 token standard and can be used in existing ecosystems. 
+### A brief description of Opium
 
-Opium introduces “Turing complete derivatives” \(both exchange-traded and over-the-counter\) and “Turing complete oracles”. This combination allows creating contracts in a broader scope than just financial derivatives. A contract for any event, such as a sporting event or even a lottery, can be set up - all within the existing ecosystem. Because derivatives can be combined, it opens a huge number of use cases.
+The Opium protocol is a smart escrow that enables two parties to make a trustless contract and holds an asset on their behalf until contract terms are fully or partially fulfilled. It is used when two parties are in the process of completing a transaction, and there is uncertainty over whether one party will be able to fulfill their obligations or when the transaction depends on an outcome of a future event. A safe accepts an asset according to a rule and releases it in some time according to another rule that depends on an oracle. Oracle communicates to the escrow whether the desired event occurred or not or provides some numerical data and thus triggers the execution of the transaction.&#x20;
 
-This site will serve as a project overview for the Opium Network - explaining how it works, how to use it, and how to build on top of it.
+A very simple example of how an escrow works would be hiring a freelancer to perform some tasks. Parties agree on parameters, such as scope, deadline and remuneration, and create a safe. A hiring party deposits money. After the deadline, an oracle reports how much work is done. Depending on how much work is completed, the safe will give the freelancer either a percentage or the full sum.
+
+One doesn’t need any technical knowledge to create an escrow or safe; once created, a safe will work endlessly as programmed. Anyone interested in entering a contract with the same parameters can use the existing escrow. The contracts are always made between two people, and there is no risk to affect the agreements of other users.
+
+### Use cases
+
+1. For example, two people wager on the outcome of the Italian soccer championship serie A. They create a unique escrow and deposit the same amount of money in a safe, let’s say 600 euro. The safe closes for a week. After a week, it checks who won the final and transfers 1,200 euros to a person who has correctly guessed the winner.&#x20;
+2. A financial derivative escrow operates in a similar way. One or both parties lock collateral and enter into a financial contract at some price, analogous to futures or options. Let’s assume one participant made a deposit of 3,000 dollars on assumption that the oil price will be above 100$, another paid him a premium. In a week, depending on where the oil price stands, participants receive money in the agreed proportion, plus the first participant gets the remaining of their deposit. It is a decentralized and trustless analogue of a traditional option contract.
 
