@@ -2,7 +2,7 @@
 
 ### The goal &#x20;
 
-The goal of this documentation is to provide a comprehensive overview of the project for current and future contributors within a formalized path to the full decentralization of the Opium Protocol. As the founding team takes a step back, leaving the government power to the community, it is crucial to have a single point of truth for all stakeholders to refer to. The documentation is published on GitHub and is open for contributions to reflect the growth and development of the project. This current document is the result of work of many contributors, many thanks to all contributors and special thanks for Stani, Kain, Anton, Sergej, Synth and \[ALL list of investors here] for your contribution, support and endless community calls.
+The goal of this documentation is to provide a comprehensive overview of the project for current and future contributors within a formalized path to the full decentralization of the Opium Protocol. As the founding team takes a step back, leaving the government power to the community, it is crucial to have a single point of truth for all stakeholders to refer to. The documentation is published on GitHub and is open for contributions to reflect the growth and development of the project. This current document is the result of work of many contributors, many thanks to all contributors and special thanks for Stani, Kain, Anton, Sergej, Synth and for your contribution, support and endless community calls.
 
 ### The scope&#x20;
 
