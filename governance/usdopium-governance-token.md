@@ -37,14 +37,14 @@ The minted supply of $OPIUM is 100,000,000. The initial distribution of this sup
 
 This fund is used to allocate governance to active users of the protocol for the benefit of the Opium ecosystem, as described in the previous chapter. The definition of active users will be decided regularly by governance. More tokens can be allocated for specific actions such as providing liquidity on a specified instrument or term, building actively-used instruments, or other essential activities. The tokens in this fund will be unlocked gradually and distributed retroactively to active community members, based on the specified criteria of active usage.
 
-16%: Investors and advisors&#x20;
+**16%: Early backers and advisors **
 
-This fund will be used to compensate early investors and advisors for their contribution to the success of Opium thus far. The tokens are going to be vested continuously for the next two years.
+This fund will be used to compensate early backers and advisors for their contribution to the success of Opium thus far. The tokens are going to be vested continuously for the next two years.
 
-14%: Opium Founding Team&#x20;
+**14%: Opium Founding Team **
 
 This fund will be used to cover the expenses of the founding team behind the Opium Protocol, and to support key hires and the future growth of the team. A part of these tokens will be granted to past, current and future contributors of the Opium Team and will be vested continuously for the next four years. Opium Team is a fast-growing distributed community of builders consisting of developers, mathematicians, traders, and consultants who strive to further grow and develop the Opium Ecosystem.
 
-10%: Governance Reserve Fund&#x20;
+**10%: Governance Reserve Fund **
 
 This fund will be used for external initiatives and partnerships which will help the Opium ecosystem to further grow and flourish. $OPIUM token holders have full control over the usage of this fund through governance proposals and voting.
