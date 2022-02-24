@@ -37,3 +37,16 @@ If a vulnerability satisfies the previously highlighted criteria but is not incl
 
 The reward will be delivered only after ascertaining the severity of the reported issue and the successful implementation of a patch to the reported exploit.
 
+### **Submission process**
+
+Send your bug findings to the **@**
+
+The vulnerability must not be disclosed publicly or to any other person, entity or email address before Opium Team has been notified, has fixed the issue, and has granted permission for public disclosure. In addition, disclosure must be made within 24 hours following discovery of the vulnerability.
+
+A detailed report of a vulnerability increases the likelihood of a reward and may increase the reward amount. Please provide as much information about the vulnerability as possible, including:
+
+* The conditions on which reproducing the bug is contingent
+* The steps needed to reproduce the bug or, preferably, a proof of concept
+* The potential implications of the vulnerability being abused
+
+Anyone who reports a unique, previously-unreported vulnerability that results in a change to the code or a configuration change and who keeps such vulnerability confidential until it has been resolved by our engineers will be recognized publicly for their contribution if they choose so.

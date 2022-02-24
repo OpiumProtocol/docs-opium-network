@@ -1,8 +1,8 @@
 # Audits
 
-## **Disclaimer **
+## **Disclaimer**&#x20;
 
-**The audit does not give any warranties on the security of the code, utility of the code, sustainability of the business model, regulatory regime for the business model, or any other statement about fitness of the contracts to purpose, or their bug free status. The audit documentations are for discussion purposes only. You should always conduct your own research and risk analysis. **
+**The audit does not give any warranties on the security of the code, utility of the code, sustainability of the business model, regulatory regime for the business model, or any other statement about fitness of the contracts to purpose, or their bug free status. The audit documentations are for discussion purposes only. You should always conduct your own research and risk analysis.**&#x20;
 
 ## **Audits**
 
@@ -20,7 +20,7 @@ Conclusion: “Smart contracts have been audited and several suspicious places h
 [Read the full report here](https://github.com/OpiumProtocol/opium-contracts/blob/master/docs/audit/OpiumNetworkProtocolAuditMixBytes.pdf)****\
 ****
 
-### **Audit of staking smart contracts of Opium Network done by Pessimistic **
+### **Audit of staking smart contracts of Opium Network done by Pessimistic**&#x20;
 
 “In this report, we considered the security of staking smart contracts of Opium Network project. We performed our audit according to the procedure described below. The code is of high quality. The initial audit showed only a few issues of low severity. They do not endanger project security in any way.
 

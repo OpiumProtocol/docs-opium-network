@@ -19,6 +19,10 @@
 
 ## Governance
 
+* [Decentralized setup](governance/decentralized-setup.md)
+* [Governance flow](governance/governance-flow/README.md)
+  * [Proposal creating](governance/governance-flow/proposal-creating.md)
+  * [Process of voting – technical description](governance/governance-flow/process-of-voting-technical-description.md)
 * [$Opium governance token](governance/usdopium-governance-token.md)
 
 ## For users

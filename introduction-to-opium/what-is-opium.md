@@ -8,6 +8,8 @@ A very simple example of how an escrow works would be hiring a freelancer to per
 
 One doesn’t need any technical knowledge to create an escrow or safe; once created, a safe will work endlessly as programmed. Anyone interested in entering a contract with the same parameters can use the existing escrow. The contracts are always made between two people, and there is no risk to affect the agreements of other users.
 
+![](<../.gitbook/assets/Smart escrow 23 (1).png>)
+
 ### Use cases
 
 1. For example, two people wager on the outcome of the Italian soccer championship serie A. They create a unique escrow and deposit the same amount of money in a safe, let’s say 600 euro. The safe closes for a week. After a week, it checks who won the final and transfers 1,200 euros to a person who has correctly guessed the winner.&#x20;

@@ -1,12 +1,14 @@
 # $Opium governance token
 
+**$OPIUM tokens are neither financial instruments nor securities. They merely serve as a tool that will help community to build the foundation for a derivatives trading ecosystem which will be permissionless and decentralized. The information in this update is for information purposes only (and does not constitute financial or other advice or an inducement to purchase or sell any service or security (however defined under applicable law).**
+
 ### Overview
 
 The Opium token or $Opium is an ERC20 virtual asset that plays a key role in protocol’s autonomy and decentralisation. The token holders can propose, delegate and vote on project-related initiatives and thus collectively govern the protocol.
 
 As in other DeFi projects, placing tokens into the hands of users incentivizes the community to keep the protocol up to date and constantly improve it.
 
-$Opium gives rights to:&#x20;
+$Opium g\ives rights to:&#x20;
 
 * Change DAO parameters within its permissions&#x20;
 * Execute actions on its behalf&#x20;
@@ -31,20 +33,22 @@ As liquidity mining has been criticized for favouring passive participation over
 
 ### Initial distribution&#x20;
 
+![](<../.gitbook/assets/Token Distribution b.png>)
+
 The minted supply of $OPIUM is 100,000,000. The initial distribution of this supply is projected as follows:
 
-**60%: Active users **
+**60%: Active users**&#x20;
 
 This fund is used to allocate governance to active users of the protocol for the benefit of the Opium ecosystem, as described in the previous chapter. The definition of active users will be decided regularly by governance. More tokens can be allocated for specific actions such as providing liquidity on a specified instrument or term, building actively-used instruments, or other essential activities. The tokens in this fund will be unlocked gradually and distributed retroactively to active community members, based on the specified criteria of active usage.
 
-**16%: Early backers and advisors **
+**16%: Early backers and advisors**&#x20;
 
 This fund will be used to compensate early backers and advisors for their contribution to the success of Opium thus far. The tokens are going to be vested continuously for the next two years.
 
-**14%: Opium Founding Team **
+**14%: Opium Founding Team**&#x20;
 
 This fund will be used to cover the expenses of the founding team behind the Opium Protocol, and to support key hires and the future growth of the team. A part of these tokens will be granted to past, current and future contributors of the Opium Team and will be vested continuously for the next four years. Opium Team is a fast-growing distributed community of builders consisting of developers, mathematicians, traders, and consultants who strive to further grow and develop the Opium Ecosystem.
 
-**10%: Governance Reserve Fund **
+**10%: Governance Reserve Fund**&#x20;
 
 This fund will be used for external initiatives and partnerships which will help the Opium ecosystem to further grow and flourish. $OPIUM token holders have full control over the usage of this fund through governance proposals and voting.
