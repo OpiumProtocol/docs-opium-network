@@ -39,7 +39,7 @@ The reward will be delivered only after ascertaining the severity of the reporte
 
 ### **Submission process**
 
-Send your bug findings to the **@**
+Send your bug findings to the **** [Discord](https://discord.com/invite/9cYkPEm) or contact core contributors in [Telegram](https://t.me/opium\_network)&#x20;
 
 The vulnerability must not be disclosed publicly or to any other person, entity or email address before Opium Team has been notified, has fixed the issue, and has granted permission for public disclosure. In addition, disclosure must be made within 24 hours following discovery of the vulnerability.
 
