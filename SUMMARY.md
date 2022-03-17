@@ -32,10 +32,9 @@
 
 ## FOR DEVELOPERS
 
-* [Opium addresses](for-developers/opium-addresses/README.md)
-  * [BSC mainnet](for-developers/opium-addresses/bsc-mainnet.md)
-  * [Polygon mainnet](for-developers/opium-addresses/polygon-mainnet.md)
-  * [Ethereum mainnet](for-developers/opium-addresses/ethereum-mainnet.md)
+* [Deployment Addresses](for-developers/deployment-addresses/README.md)
+  * [Opium Protocol v2](for-developers/deployment-addresses/opium-protocol-v2.md)
+  * [Opium Protocol v1](for-developers/deployment-addresses/opium-protocol-v1.md)
 * [High-level overview](for-developers/high-level-overview.md)
 * [Opium Protocol](for-developers/protocol/README.md)
   * [Core](for-developers/protocol/core/README.md)
