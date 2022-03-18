@@ -4,4 +4,9 @@ GraphQL subgraph with realtime data for [**Opium Protocol**](https://opium.netwo
 
 The Graph team pinned this subgraph to the main page of the explorer.
 
-Check out **** [**Mainnet**](https://thegraph.com/explorer/subgraph/opiumprotocol/opium-network) and [**Rinkeby**](https://thegraph.com/explorer/subgraph/opiumprotocol/opium-network-rinkeby) **** subgraphs of Opium Protocol.
+Source code: [https://github.com/OpiumProtocol/opium-contracts/tree/master/thegraph](https://github.com/OpiumProtocol/opium-contracts/tree/master/thegraph)
+
+| Network                    | URL                                                                                                                                                                  |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ethereum Mainnet           | [https://thegraph.com/explorer/subgraph/opiumprotocol/opium-network](https://thegraph.com/explorer/subgraph/opiumprotocol/opium-network)                             |
+| Ethereum (Rinkeby Testnet) | [https://thegraph.com/hosted-service/subgraph/opiumprotocol/opium-network-rinkeby](https://thegraph.com/hosted-service/subgraph/opiumprotocol/opium-network-rinkeby) |
