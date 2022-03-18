@@ -14,4 +14,4 @@ It is only a recipient of data provided by other accounts. All the contracts tha
 
 ### Restrictions
 
-The only restriction that is enforced on the OracleAggregator level is to not allow the same data to be pushed more than once on the same ‘data entry’, whereby a data entry is defined by \[\[address]\[timestamp]. As such, it is the responsibility of a consumer contract to perform any kind of business logic validation - such as, in the case of Core, fetching the data provided by the correct OracleId and not fetching any data provided before the maturity of a derivative.
+The only restriction that is enforced on the OracleAggregator level is to not allow the same data to be pushed more than once on the same ‘data entry’, whereby a data entry is defined by `[address][timestamp]`. As such, it is the responsibility of a consumer contract to perform any kind of business logic validation - such as, in the case of Core, fetching the data provided by the correct OracleId and not fetching any data provided before the maturity of a derivative.

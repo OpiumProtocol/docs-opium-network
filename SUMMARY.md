@@ -36,7 +36,7 @@
   * [Opium Protocol v2](for-developers/deployment-addresses/opium-protocol-v2.md)
   * [Opium Protocol v1](for-developers/deployment-addresses/opium-protocol-v1.md)
 * [High-level overview](for-developers/high-level-overview.md)
-* [Opium Protocol V2](for-developers/opium-protocol-v2/README.md)
+* [Opium Protocol V2](for-developers/opium-protocol-v2.md)
   * [Core](for-developers/opium-protocol-v2/core.md)
   * [Registry](for-developers/opium-protocol-v2/registry.md)
   * [SyntheticAggregator](for-developers/opium-protocol-v2/syntheticaggregator.md)

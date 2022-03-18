@@ -21,30 +21,30 @@ Opium v2 is a permissionless smart financial escrow protocol that allows its use
 
 ## Core protocol modules
 
-![](../../.gitbook/assets/Brainstorms.jpeg)
+![](../.gitbook/assets/Brainstorms.jpeg)
 
 ## Smart contracts
 
-{% content-ref url="core.md" %}
-[core.md](core.md)
+{% content-ref url="opium-protocol-v2/core.md" %}
+[core.md](opium-protocol-v2/core.md)
 {% endcontent-ref %}
 
-{% content-ref url="registry.md" %}
-[registry.md](registry.md)
+{% content-ref url="opium-protocol-v2/registry.md" %}
+[registry.md](opium-protocol-v2/registry.md)
 {% endcontent-ref %}
 
-{% content-ref url="syntheticaggregator.md" %}
-[syntheticaggregator.md](syntheticaggregator.md)
+{% content-ref url="opium-protocol-v2/syntheticaggregator.md" %}
+[syntheticaggregator.md](opium-protocol-v2/syntheticaggregator.md)
 {% endcontent-ref %}
 
-{% content-ref url="oracleaggregator.md" %}
-[oracleaggregator.md](oracleaggregator.md)
+{% content-ref url="opium-protocol-v2/oracleaggregator.md" %}
+[oracleaggregator.md](opium-protocol-v2/oracleaggregator.md)
 {% endcontent-ref %}
 
-{% content-ref url="opiumproxyfactory.md" %}
-[opiumproxyfactory.md](opiumproxyfactory.md)
+{% content-ref url="opium-protocol-v2/opiumproxyfactory.md" %}
+[opiumproxyfactory.md](opium-protocol-v2/opiumproxyfactory.md)
 {% endcontent-ref %}
 
-{% content-ref url="opiumpositiontoken.md" %}
-[opiumpositiontoken.md](opiumpositiontoken.md)
+{% content-ref url="opium-protocol-v2/opiumpositiontoken.md" %}
+[opiumpositiontoken.md](opium-protocol-v2/opiumpositiontoken.md)
 {% endcontent-ref %}
