@@ -21,5 +21,30 @@ Opium v2 is a permissionless smart financial escrow protocol that allows its use
 
 ## Core protocol modules
 
-![](../.gitbook/assets/Brainstorms.jpeg)
+![](../../.gitbook/assets/Brainstorms.jpeg)
 
+## Smart contracts
+
+{% content-ref url="core.md" %}
+[core.md](core.md)
+{% endcontent-ref %}
+
+{% content-ref url="registry.md" %}
+[registry.md](registry.md)
+{% endcontent-ref %}
+
+{% content-ref url="syntheticaggregator.md" %}
+[syntheticaggregator.md](syntheticaggregator.md)
+{% endcontent-ref %}
+
+{% content-ref url="oracleaggregator.md" %}
+[oracleaggregator.md](oracleaggregator.md)
+{% endcontent-ref %}
+
+{% content-ref url="opiumproxyfactory.md" %}
+[opiumproxyfactory.md](opiumproxyfactory.md)
+{% endcontent-ref %}
+
+{% content-ref url="opiumpositiontoken.md" %}
+[opiumpositiontoken.md](opiumpositiontoken.md)
+{% endcontent-ref %}
