@@ -1,4 +1,9 @@
-# IDerivativeLogic
+# Interfaces
+
+### **IDerivativeLogic**
+
+Derivative recipes implementing the IDerivativeLogic interface can make use of the HasCommission and ExecutableByThirdParty helper contracts. The HasCommission contract exposes the view functions to query information about the derivative’s author and sets the commission for the creation of the derivative at 0.25% of the profit. The ExecutableByThirdParty implements the set of functions necessary to allow third-party execution and query whether it has already been granted.\
+
 
 **`validateInput(Derivative memory _derivative) public view returns(bool);`**
 
@@ -28,4 +33,13 @@ It should allow to retrieve whether third-party positions’ execution has been 
 
 **`isPool() public view returns(bool)`**
 
-deprecated
+deprecated\
+****
+
+### **IOracleId**
+
+**`fetchData(address oracleId, uint256 timestamp) public`**
+
+**`recursivelyFetchData(address oracleId, uint256 timestamp, uint256 period, uint256 times) public`**
+
+**`calculateFetchPrice(address oracleId) public returns(uint256 fetchPrice)`**

@@ -1,8 +1,8 @@
----
-description: Methods overview
----
-
 # SyntheticAggregator
+
+It allows users and consumer contracts to query information about a given derivative recipe and, internally, it is provided with some stateful logic to initialize a new financial product’s sensitive data.
+
+### Contract functions description
 
 **`getAuthorCommission(bytes32 _derivativeHash, Derivative memory _derivative) public returns(uint256 commission)`**
 

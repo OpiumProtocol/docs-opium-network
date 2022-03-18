@@ -1,4 +1,0 @@
-# PayoutHelper
-
-**`getExecutionPayouts`**
-
