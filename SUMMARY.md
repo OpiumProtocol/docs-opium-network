@@ -73,6 +73,7 @@
   * [Subgraph V1](for-developers/opium-api/opium-protocol-on-the-graph.md)
 * [SDK](for-developers/opium-sdk/README.md)
   * [Opium V2 SDK](for-developers/opium-sdk/opium-v2-sdk.md)
+  * [Opium Finance Pools SDK](for-developers/opium-sdk/opium-finance-pools-sdk.md)
   * [Swap Rate SDK/API](for-developers/opium-sdk/swap-rate-sdk-api.md)
 
 ## Complex description
