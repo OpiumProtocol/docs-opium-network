@@ -23,6 +23,8 @@ Furthermore, smart contract bugs that do not lead to a loss of funds might be cl
 
 The scope of the present bounty is focused solely on smart contracts developed by the Opium core contributors for the Opium Protocol. The list of codebases eligible for the bounty program includes but is not limited to:&#x20;
 
+[https://github.com/OpiumProtocol/opium-protocol-v2](https://github.com/OpiumProtocol/opium-protocol-v2)
+
 [https://github.com/OpiumProtocol/opium-contracts ](https://github.com/OpiumProtocol/opium-contracts)
 
 [https://github.com/OpiumProtocol/erc721o](https://github.com/OpiumProtocol/erc721o)
