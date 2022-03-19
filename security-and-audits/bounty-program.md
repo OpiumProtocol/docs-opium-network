@@ -32,7 +32,7 @@ If a vulnerability satisfies the previously highlighted criteria but is not incl
 ### Compensation&#x20;
 
 * High threat - up to 100,000 DAI&#x20;
-* Medium threat - up to 10,000 DAI&#x20;
+* Medium threat - up to 20,000 DAI&#x20;
 * Low threat - up to 2,000 DAI
 
 The reward will be delivered only after ascertaining the severity of the reported issue and the successful implementation of a patch to the reported exploit.
