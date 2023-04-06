@@ -6,8 +6,6 @@ The latest versions of Opium Protocol v2 are deployed at the addresses listed be
 
 ### Ethereum
 
-
-
 | Contract            | Proxy                                                                                                                 | Implementation                                                                                                        |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | Registry            | [0xbd0e3097F47cEcA12407bAc42cDD574cf3072F23](https://etherscan.io/address/0xbd0e3097F47cEcA12407bAc42cDD574cf3072F23) | [0x85d9c3784B277Bc10e1504Aa8f647132ba17A674](https://etherscan.io/address/0x85d9c3784B277Bc10e1504Aa8f647132ba17A674) |
@@ -20,8 +18,6 @@ The latest versions of Opium Protocol v2 are deployed at the addresses listed be
 | ProxyAdmin          | -                                                                                                                     | [0x17b6ffe276e8a4a299a5a87a656afc5b8fa3ee4a](https://etherscan.io/address/0x17b6ffe276e8a4a299a5a87a656afc5b8fa3ee4a) |
 
 Helpers
-
-
 
 | Contract             | Address                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -75,7 +71,7 @@ Helpers
 
 ### **Polygon (Mumbai)**
 
-****
+
 
 | Contract            | Proxy                                                                                                                           | Implementation                                                                                                                  |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
